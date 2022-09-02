@@ -1,0 +1,97 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.highscore {
+  position: absolute;
+  padding-left: 10%;
+  color: bisque;
+  font-size: 2rem;
+  text-shadow: 0.5px 0 #eeeeee;
+}
+
+.highscore1 {
+  padding-left: 60%;
+  color: bisque;
+  font-size: 2rem;
+  text-shadow: 0.5px 0 #eeeeee;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.restart {
+  margin: 30px;
+  width: 14%;
+  padding: 1%;
+  background-color: rgb(76, 75, 78);
+  border-color: aliceblue;
+  font-size: 1rem;
+  font-family: "Helvetica", cursive;
+  text-shadow: 1px 0 #232931;
+  color: aquamarine;
+}
+.score1,
+.score2,
+.score3,
+.score4 {
+  color: rosybrown;
+  font-size: 1rem;
+  text-shadow: 0.5px 0 #eeeeee;
+}
+/* .hr {
+  margin-bottom: 100px;
+  padding: 0.7%;
+  background-color: white;
+} */
+
+.winner {
+  padding: 2% 2% 2% 2%;
+  background-color: rgb(236, 202, 133);
+  border-radius: 10%;
+  border-style: dashed;
+  border-color: #4ecca3;
+  font-size: 1.5rem;
+
+  font-family: "Helvetica";
+  text-shadow: 1.2px 0 greenyellow;
+}
+.button {
+  padding: 1%;
+  border-radius: 30%;
+  border-color: antiquewhite;
+  background-color: grey;
+}
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 5px;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  font-family: "Helvetica", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 1.5rem;
+  color: #4ecca3;
+  font-family: "Helvetica", cursive;
+}
+
+img {
+  width: 30%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
